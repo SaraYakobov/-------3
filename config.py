@@ -1,3 +1,3 @@
 DBUSER = 'sara'
-DBPASS = 'yakobov!770'
+DBPASS = 'yak770'
 DBHOST = 'saradb-python.postgres.database.azure.com'
